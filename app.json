@@ -1,10 +1,10 @@
 {
-  "name": "Save Restricted Content Bot master-v1 branch",
-  "description": "Save Restricted Content Bot by Team SPY",
-  "logo": "https://lh3.googleusercontent.com/-HPcn7AqepNg/AAAAAAAAAAI/AAAAAAAAAAA/ALKGfknb1BkQiq-8_KUVOYcNAJ4swKivDQ/photo.jpg",
-  "keywords": ["python3", "telegram", "MusicBot", "telegram-bot", "pyrogram"],
-  "repository": "https://github.com/devgaganin/save_restricted-content-telegram-bot-repo",
-  "success_url": "https://devgagan.in",
+  "name": "Bruce Wayne Pioneer Bot",
+  "description": "A Telegram bot by Bruce Wayne Pioneer",
+  "logo": "https://avatars.githubusercontent.com/u/9919?s=280&v=4",
+  "keywords": ["python3", "telegram", "bot", "pyrogram", "automation"],
+  "repository": "https://github.com/brucewaynepioneer/a",
+  "success_url": "https://yourwebsite.com",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
@@ -30,7 +30,7 @@
       "description": "The user ID of the user whom you would like to add as OWNER.",
       "value": "owner_user_id_here",
       "required": true
-    },    
+    },
     "FREEMIUM_LIMIT": {
       "description": "Batch size for free users",
       "value": "0",
@@ -42,12 +42,12 @@
       "required": true
     },
     "STRING": {
-      "description": "Enter premium account session string if you want to allow the paid users to upload upto 4GB",
+      "description": "Enter premium account session string if you want to allow the paid users to upload up to 4GB",
       "value": "",
       "required": false
     },
     "WEBSITE_URL": {
-      "description": "Enter shortener website domain eg upshrink.com",
+      "description": "Enter shortener website domain e.g., upshrink.com",
       "value": "upshrink.com",
       "required": false
     },
@@ -56,7 +56,6 @@
       "value": "52b4a2cf4687d81e7d3f8f2b7bc2943f618e78cb",
       "required": false
     },
-    
     "SUDO_USERS": {
       "description": "Other Admins' IDs (optional)",
       "value": "",
