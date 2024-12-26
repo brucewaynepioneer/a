@@ -4,6 +4,13 @@
 
 [Telegram](https://t.me/save_restricted_content_bots) | [See Recent Updates](https://github.com/devgaganin/Save-Restricted-Content-Bot-V2/tree/v3#updates)
 
+# Bruce Wayne Pioneer Bot
+
+A Telegram bot by Bruce Wayne Pioneer.
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/brucewaynepioneer/a)
+
+
 
 
 ## 📚 About This Branch
